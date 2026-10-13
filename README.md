@@ -1,5 +1,7 @@
 # swiftactoe
 
+> **Historical example (unmaintained).** A historical Swift networking/tic-tac-toe exercise using the older Swift 5.3 and nanomsg toolchain. It is not a maintained or security-hardened network game; the build and networking commands below reflect the original environment.
+
 Tic tac toe in swift with networking
 
 ## dependencies
